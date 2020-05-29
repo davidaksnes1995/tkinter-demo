@@ -40,3 +40,5 @@ button_clear.grid(row=7, column=1, columnspan=2)
 button_equal.grid(row=6, column=1, columnspan=2)
 
 root.mainloop()
+
+# testing
