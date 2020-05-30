@@ -29,3 +29,11 @@ ImportError: DLL load failed: The specified module could not be found.
 
 ### notes
 as imcapable of install pillow package, I replace pictures with texts files.
+
+### What can I do with tk?
+1. Self-develop games store
+2. 爬蟲
+
+
+### Stop at
+https://www.youtube.com/watch?v=Aim_7fC-inw&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV&index=15
